@@ -1,3 +1,5 @@
+//Вариант 2
+
 import java.util.Scanner;
 
 public class ClassTestTask02 {
